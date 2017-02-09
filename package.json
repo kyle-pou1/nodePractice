@@ -1,0 +1,19 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "Practice for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyle-pou1/nodePractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyle-pou1/nodePractice/issues"
+  },
+  "homepage": "https://github.com/kyle-pou1/nodePractice#readme"
+}
